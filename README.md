@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Péter Fedorov from Budapest.<br>👀 I’m interested in Frontend development, Web-development and UI/UX design.<br>📫 You can reach me at: https://www.linkedin.com/in/peter-fedorov-665401199/
 
 
